@@ -18,7 +18,7 @@
     <color name="colorPrimaryDark">#e16e36</color>
     <color name="colorAccent">#e16e36</color>
 
-    <color name="colorIncognito">#e16e36</color>
+    <color name="colorIncognito">#000000</color>
     <color name="colorDelete">#F44336</color>
 
     <color name="primary">#ffffff</color>
